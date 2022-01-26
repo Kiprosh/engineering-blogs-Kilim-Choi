@@ -248,6 +248,7 @@
 * Kickstarter https://www.kickstarter.com/backing-and-hacking
 * King https://techblog.king.com/
 * Kinvolk https://kinvolk.io/blog/
+* Kiprosh https://blog.kiprosh.com/
 * Kogan.com https://devblog.kogan.com/
 * Kolosek https://kolosek.com/blog/
 
